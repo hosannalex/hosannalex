@@ -8,5 +8,3 @@ print('''
 
 '''
 )
-
-# this is a single line commnet
